@@ -33,10 +33,13 @@
 
 > 📌 **Note:** Ensure the correct pin mapping based on your keypad's wiring order. Reverse the `rowPins[]` or `colPins[]` arrays in the code if key presses don't match expected output.
 
-### 🔔 | Buzzer Pin | Arduino Pin | Description    |
+### 🔔 Buzzer to Arduino
+
+| Buzzer Pin | Arduino Pin | Description        |
 |------------|-------------|--------------------|
 | + (Positive) | D13        | PWM tone output    |
 | – (Negative) | GND        | Ground connection  |
+
 
 
 ---
